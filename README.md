@@ -11,8 +11,9 @@ a new word or phrase because the application reminds you the word that you recen
 are inserting it.  
 
 Also, you can insert an example sentence or paragraph for any word you inserted. Personally, I learned  
-many words and phrases from various books, movies, articles, and daily conversations. Hence, saving  
-the context was kind of necessary for better learning activity. 
+numerous words and phrases from various books, movies, articles, and daily conversations. Hence, saving  
+the context was kind of necessary for better learning activity. I believe this functionality of the  
+application will help you, as well.
 
 
 ## Before You Start Using  
