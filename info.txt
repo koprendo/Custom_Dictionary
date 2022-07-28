@@ -1,0 +1,194 @@
+<<<<<<<<<TO CONTINUE PROGRAM, YOU HAVE TO CLOSE THIS FILE>>>>>>>>
+--->Ignore this warning message if you already can use the program.
+(WARNING! To use program, you should first execute 'database_constructor.py' to construct database. Then, open 'constants.py' and insert the name of your database file into 'file_name' variable. Insert your name into 'user_name' variable. Now you are ready!)
+
+COMMANDS
+1 --> add
+2 --> see
+3 --> del
+4 --> exadd
+5 --> count
+6 --> info
+
+1. ADD COMMAND
+*If you want to add a new word or add a new meaning for a specific word, you must type 'add' when program says:
+--> What's your command, (changeable_area) ? (To see commands, type info)
+>
+
+*This command opens 'ADD SECTION'.
+ 
+
+2. SEE COMMAND
+*If you want to see a word, you must type 'see' when program says:
+--> What's your command,(changeable_area) ? (To see commands, type info)
+>
+
+(WARNING! You can not see any word that you did not add before.)
+
+*This command opens 'SEE SECTION'.
+
+
+3. DEL COMMAND
+*If you want to delete a word or a specific meaning of a word, you must
+type 'del' when program says:
+--> What's your command, (changeable_area) ? (To see commands, type info)
+>
+
+*This command opens 'DELETE SECTION'
+
+(WARNING! You should be very sure to type 'del' command. Because 
+'DELETE SECTION' deletes what you type permanently.)
+
+
+4. EXADD COMMAND
+*If you want to add a an example text for any existing word, you must type
+'exadd' when program says:
+--> What's your command, (changeable_area) ? (To see commands, type info)
+>
+
+*This command opens 'EXAMPLE ADDITION SECTION'
+
+
+5. COUNT COMMAND
+*If you want to see how many words do you have, you should type 'count'
+when program says:
+--> What's your command, (changeable_area) ? (To see commands, type info)
+>
+
+
+6. INFO COMMAND
+*If you want to learn how to use this program, you should type 'info'
+when program says:
+--> What's your command, (changeable_area) ? (To see commands, type info)
+>
+
+*This command opens info.txt file. You need to close this file to 
+continue program.
+
+
+
+_____________________________________________________
+|**************************************************************************|
+|*******************************SECTIONS*******************************|
+|**************************************************************************|
+----------------------------------------------------------------------------------------
+(WARNING! If you want to quit any section, you must click enter.)
+
+
+1) ADD SECTION
+*In this section you have to type a word/phrase and a meaning respectively.
+When you're inserting the meaning, you have to include its class (noun, verb etc.).
+Proper Usage:
+Insert a Word
+>car
+Insert the Meaning
+>araba noun
+
+*After adding the word and its meaning with its class, the program continues to ask
+for another word from you. Therefore, you can add many words without stopping the
+program.
+
+*If you want to return main menu, you must click enter.
+
+(WARNING! You can not add a lot of meanings for a word at the same time. You have to
+add in turn. For example:
+Insert a Word
+>talk
+Insert the Meaning
+>konuşma noun
+
+Well done. You have added a meaningful information.
+
+Insert a Word
+>talk
+Insert the Meaning
+>konuşmak verb
+
+Well done. You....)
+
+
+2) SEE SECTION
+*In this section you have to type a word to see its meaning. You can not see
+any word which is not present in the database.
+Proper Usage:
+Insert a Word
+>car
+
+looking for...
+
+word: car
+araba  (Noun)
+(1)
+This is my car.
+
+*If a word has some example text, program displays it with its number on the screen:
+(1)
+This is my car.
+(2) 
+This is your car.
+
+*After seeing the word and its meaning, the program continues to ask for another
+word from you. Therefore, you can see many words without stopping the program.
+
+*If you want to return main menu, you must click enter.
+
+
+3) DELETE SECTION
+*You should open this section if you want to delete a specific word or a specific 
+meaning of a word.
+
+(WARNING! After deleting process, word/meaning of a word goes permanently from
+database. Therefore, be careful before any deleting process.)
+
+*There is two part in this section: (1) deleting just a word, (2) deleting a meaning 
+from any specific word.
+For 1. Part:
+The program asks a word. After inserting the word, verification process begins.
+It asks you to enter the word which will be indicated by the program. Then,
+deleting process starts.
+For 2. Part:
+The program asks for a word. After inserting the word, program lists its meanings.
+You have to select the meaning which you want to delete and type it. Then, 
+verification process begins. It asks you to enter the word which will be indicated
+by the program. Then, deleting process starts.
+
+(WARNING! Unlike the add section and see section, delete section has not any 
+key/word/phrase to return main menu. Because delete section allows you 
+to delete just one word/meaning. If you fail or succeed, it's done. you return to main
+menu automaticly. Therefore, if you open this section not on purpose, you should
+simply not follow the instructions.)
+
+
+4) EXAMPLE ADDITION SECTION
+*In this section, you can add an example text for a word.
+
+*After inserting the word, the program asks for an example text from you.
+
+*After adding the example text, program continues to ask for new example texts
+from you. To return main menu, you have to click enter simply.
+
+
+5) COUNT
+*In this section, the program shows how many words do you have.
+
+*This section automatically returns to main menu.
+
+
+6) INFO
+*This is not a section. This is a file that you can learn how program works.
+
+*To continue program, you have to close this file.
+
+
+*****************************THANK YOU*****************************
+************************************************************************
+Programmer Info:
+Name: Yusuf
+Mail: melvan63@hotmail.com
+
+Program:
+Name: Study English
+
+
+
+***ALL RIGHTS RESERVED***
