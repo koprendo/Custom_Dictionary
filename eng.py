@@ -2,9 +2,7 @@ from functions import *
 from constants import *
 from add import *
 from see import *
-from delete import *
 from example import *
-from count import *
 
 
 def main():
