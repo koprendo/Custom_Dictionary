@@ -184,7 +184,7 @@ from you. To return main menu, you have to click enter simply.
 ************************************************************************
 Programmer Info:
 Name: Yusuf
-Mail: melvan63@hotmail.com
+Mail: yusufemretaskiran@gmail.com
 
 Program:
 Name: Study English
