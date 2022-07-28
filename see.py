@@ -1,8 +1,6 @@
 from constants import *
 from functions import *
 
-#SEE SECTION fonksiyonudur. amacı kullanıcıdan aldığı kelimeyi veritabanından çekip
-#kullanıcıya kelimeyi ve anlamlarını gösterebilmektir.
 def see():
     '''This function prints the stored meanings of the user-given word with \
 the corresponding stored examples.
