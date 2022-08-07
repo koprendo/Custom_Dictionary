@@ -39,7 +39,7 @@ an order to keep the word registered. It has no right to question you. And you c
 already told word and it will give you a detailed explanation. It is not smart but a very dedicated servant.  
 
 ### Orders 
-Since the application is not smart, you must be careful when giving orders. There are basically 4 types of  
+Since the application is not smart, you must be careful when giving orders. There are currently 4 types of  
 orders:
 - add
   - To insert words and phrases with their meanings
@@ -53,4 +53,17 @@ orders:
   - You can always get detailed help by reading this user manual 
   
 ### Mechanics of The Application
-**will be edited soon**
+When you run the program, you'll be in the **main menu** until you type an order described above. Each order  
+take you into a special section. These sections are:
+- Add Section
+- Example Addition Section
+- See Section   
+
+**Add Section** and **See Section** run in a loop. When you're in **Add Section** for instance, the program will  
+still wait for you to insert another word after inserting word(s). Same goes for **See Section**. You must type  
+nothing in order to return **main menu**.  
+On the contrary, **Example Addition Section** doesn't run in a loop. You can only add just one example. It returns  
+to **main menu** automatically.  
+After returning to **main menu**, you can type another or the same order if you want. **main menu** runs in a loop,  
+as well. If you want to quit the application, just don't type any defined order in the **main menu**. And don't  
+forget farewell, be nice with it :) 
