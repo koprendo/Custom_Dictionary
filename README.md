@@ -39,9 +39,18 @@ an order to keep the word registered. It has no right to question you. And you c
 already told word and it will give you a detailed explanation. It is not smart but a very dedicated servant.  
 
 ### Orders 
-Since the application (I'll call it friend from here on out) is not smart, you must be careful when giving  
-orders. There are basically 4 types of orders:
+Since the application is not smart, you must be careful when giving orders. There are basically 4 types of  
+orders:
 - add
+  - To insert words and phrases with their meanings
 - exadd
+  - To insert examples for registered words and phrases
 - see
+  - To see the meaning(s) and example(s) of a desired word or phrase
+  - This will show information only for words and phrases that are already inserted 
 - info
+  - To open **info.txt** file
+  - You can always get detailed help by reading this user manual 
+  
+### Mechanics of The Application
+**will be edited soon**
